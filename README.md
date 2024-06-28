@@ -20,15 +20,13 @@ Build the project
 Build project is located on bin directory
 ### Screenshots
 
-![1](https://user-images.githubusercontent.com/88402075/236395634-db4b00eb-2a4e-4f1c-8f32-5835f88df1c0.png)
-
-![2](https://user-images.githubusercontent.com/88402075/236395638-25e545e4-3087-464d-85b8-33e46666893b.png)
-
-![3](https://user-images.githubusercontent.com/88402075/236395641-99430d9b-056e-4730-8100-efe7c1b01178.png)
-
-![4](https://user-images.githubusercontent.com/88402075/236395649-72afaa1d-a9a3-4e0c-81f3-ede2aa054177.png)
-
-![5](https://user-images.githubusercontent.com/88402075/236395656-671b9f91-7bdf-405d-b2a1-47558efc0280.png)
-![HD-wallpaper-ms-dhoni-cricket-india-ms-dhoni-sports-thumbnail](https://github.com/Prashan45/Hashtechy_BlogApplication/assets/147049406/e2b22281-9a2e-43b4-8f49-57bbd6e0d576)
+![Screenshot (1)](https://github.com/Prashan45/Hashtechy_BlogApplication/assets/147049406/cab4e192-b569-4e7c-850c-f5a95705e3b5)
+![Screenshot (3)](https://github.com/Prashan45/Hashtechy_BlogApplication/assets/147049406/d9c580bd-dfab-430f-8fac-df1922b1e0e7)
+![Screenshot (4)](https://github.com/Prashan45/Hashtechy_BlogApplication/assets/147049406/7fc023ab-620b-4dbd-877d-fcaf5488f350)
+![Screenshot (5)](https://github.com/Prashan45/Hashtechy_BlogApplication/assets/147049406/d773fc46-a710-486e-8407-3dd3cda85846)
+![Screenshot (9)](https://github.com/Prashan45/Hashtechy_BlogApplication/assets/147049406/a8e6c040-0d68-4125-b8b9-0b44c9c752c6)
+![Screenshot (6)](https://github.com/Prashan45/Hashtechy_BlogApplication/assets/147049406/48b8f90f-f8ee-4141-ac61-569abc974c98)
+![Screenshot (7)](https://github.com/Prashan45/Hashtechy_BlogApplication/assets/147049406/08b47feb-3a46-4039-ba62-04e7d4384e26)
+![Screenshot (8)](https://github.com/Prashan45/Hashtechy_BlogApplication/assets/147049406/4ff7e600-ef96-486c-ab4b-7a748cd87f73)
 
 
