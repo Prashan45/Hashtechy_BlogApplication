@@ -7,24 +7,14 @@ website made on .Net Core MVC and SQL Server.
 ## Run Locally
 
 Clone the project
-
-```bash
   git clone https://github.com/Prashan45/Hashtechy_BlogApplication.git
-
 Go to the project directory
 
 Update database via Package Manager Console
-
-bash
   update-database
 Update database via dotnet cli
-
   dotnet ef database update
-
 Start/run the project
-
-
 Build the project
-
   dotnet build
 Build project is located on bin directory
