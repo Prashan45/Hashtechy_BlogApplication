@@ -29,3 +29,6 @@ Build project is located on bin directory
 ![4](https://user-images.githubusercontent.com/88402075/236395649-72afaa1d-a9a3-4e0c-81f3-ede2aa054177.png)
 
 ![5](https://user-images.githubusercontent.com/88402075/236395656-671b9f91-7bdf-405d-b2a1-47558efc0280.png)
+![HD-wallpaper-ms-dhoni-cricket-india-ms-dhoni-sports-thumbnail](https://github.com/Prashan45/Hashtechy_BlogApplication/assets/147049406/e2b22281-9a2e-43b4-8f49-57bbd6e0d576)
+
+
